@@ -1,0 +1,8 @@
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\bin\Debug\SchoolProjectLogin.exe
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\bin\Debug\SchoolProjectLogin.pdb
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.Form1.resources
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.Main.resources
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.Properties.Resources.resources
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.csproj.GenerateResource.Cache
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.exe
+c:\users\sbalared\documents\visual studio 2010\Projects\SchoolProjectLogin\SchoolProjectLogin\obj\x86\Debug\SchoolProjectLogin.pdb
